@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Movie Recommendation App
+
+# Movie-Recommendation-Web-Application
 
 This is a full-stack movie recommendation app with authentication, search, and related movies features.
 
@@ -57,5 +57,4 @@ npm start
 
 MIT
 =======
-# Movie-Recommendation-Web-Application
->>>>>>> fed756c2fda48a39a439350fc08374a671df47df
+
